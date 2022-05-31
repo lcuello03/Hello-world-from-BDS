@@ -1,0 +1,13 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,OBJECT_ID_PROCEDURE,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/object_id_procedure.sql,1,12,2,Low,,MSCEWI1020,281,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,NumericTable,TABLE,<NoServer>.<NoDB>.<NoSchema>,table/dbo/numerictable.sql,1,17,0,,,,277,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,ERROR_PROCEDURE,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/error_procedure.sql,1,18,6,Low,,MSCEWI1020 | MSCEWI4025,334,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,DateProcedure1,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/dateprocedure1.sql,1,10,0,,,,321,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,StringTable,TABLE,<NoServer>.<NoDB>.<NoSchema>,table/dbo/stringtable.sql,1,9,0,,,,251,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,COALESCE_PROCEDURE,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/coalesce_procedure.sql,1,5,0,,UPDATE_ERROR_VARS_UDF,,138,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,StringProcedure1,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/stringprocedure1.sql,1,24,1,Low,,MSCEWI4007,916,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,StringTableView2,VIEW,<NoServer>.<NoDB>.<NoSchema>,unknown/views/views.sql,1,3,1,Low,,MSCEWI1046,84,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,NumericProcedure1,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/numericprocedure1.sql,1,21,1,Low,,MSCEWI4009,1053,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,NumericProcedure2,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/numericprocedure2.sql,1,44,0,,,,984,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,CONVERT_PROCEDURE,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,procedure/dbo/convert_procedure.sql,1,6,0,,,,160,Success,100%,--
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,DateTable,TABLE,<NoServer>.<NoDB>.<NoSchema>,table/dbo/datetable.sql,1,7,0,,,,98,Success,100%,--

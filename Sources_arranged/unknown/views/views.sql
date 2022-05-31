@@ -1,0 +1,3 @@
+CREATE OR ALTER VIEW StringTableView2
+AS
+SELECT COL3 = CAST(ST.COL3 as CHAR) FROM StringTable as ST;

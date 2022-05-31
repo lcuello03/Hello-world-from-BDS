@@ -1,0 +1,2 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage
+c2e30d6d-82e3-4998-a30a-5d7158dc5a23,SQL,0,SELECT,<NoServer>.<NoDB>.<NoSchema>,unknown/selects/selects.sql,1,1,0,,,,20,Success,100%,--

@@ -1,0 +1,19 @@
+CREATE TABLE NumericTable 
+(
+	-- Exact numerics
+	COL1 [BIT] NULL,
+	COL2 [NUMERIC],
+	COL3 [NUMERIC](4, 2),
+	COL4 [DECIMAL],
+	COL5 [DECIMAL](8, 3),
+	COL6 [BIGINT],
+	COL7 [INT] IDENTITY(-1, 1),
+	COL8 [SMALLINT],
+	COL9 [TINYINT],
+	COL10 [MONEY],
+	COL11 [SMALLMONEY],
+-- Approx numerics
+	COL12 [FLOAT](8),
+	COL13 [FLOAT],
+	COL14 [REAL]
+);

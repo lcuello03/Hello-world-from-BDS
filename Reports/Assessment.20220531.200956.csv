@@ -1,0 +1,77 @@
+ProductName,Mobilize Snow Conversion Tool 7.2.22+master[ae3daf3]-1126.596366
+CoreVersion,7.2.22
+AppVersion,Not Provided
+SqlFileCount,13
+SqlSizeMB,0.01
+OSVersion,Unix 5.4.0.1078
+SnowScript,False
+WorkloadName,
+StartConversion,2022/05/31 20:10:03 +00:00
+SQLLinesCount,177
+UnrecognizedElements,0
+UnrecognizedElementsLOC,0
+TotalFiles,13
+TotalFilesNotGenerated,0
+TotalLinesOfCode,177
+ConversionSpeed,18
+ElapsedTime,00:00:09
+TotalSize,5925
+EndConversion,2022/05/31 20:10:12 +00:00
+TimeParsing,1.7337109
+TimeFillSymbolStep1,3.260517
+TimeFillSymbolStep2,0.2107341
+TimeResolveDependency,0.0146759
+TimePreprocessing,0.1942866
+TimeTransformation,0.6155124
+TotalErrors,0
+TotalWarnings,12
+TotalParsingErrors,0
+TotalConversionErrors,0
+TotalCharacterConversionRate,100
+SqlIdentifiedObjects,12
+SqlIdentifiedQueries,3
+ObjectsSuccessfullyConverted,12
+QueriesSuccessfullyConverted,3
+TableObjectConversionRate,100
+TableCharacterConversionRate,100
+TableFullyConvertedOccurrences,3
+TableTotalOccurrences,3
+TableTotalParsingErrors,0
+TableTotalConversionErrors,0
+TableTotalWarnings,1
+TableTotalCharacters,626
+TableTotalLinesOfCode,33
+ViewObjectConversionRate,100
+ViewCharacterConversionRate,100
+ViewFullyConvertedOccurrences,1
+ViewTotalOccurrences,1
+ViewTotalParsingErrors,0
+ViewTotalConversionErrors,0
+ViewTotalWarnings,1
+ViewTotalCharacters,84
+ViewTotalLinesOfCode,3
+ProcedureObjectConversionRate,100
+ProcedureCharacterConversionRate,100
+ProcedureFullyConvertedOccurrences,8
+ProcedureTotalOccurrences,8
+ProcedureTotalParsingErrors,0
+ProcedureTotalConversionErrors,0
+ProcedureTotalWarnings,10
+ProcedureTotalCharacters,4187
+ProcedureTotalLinesOfCode,140
+FunctionObjectConversionRate,0
+FunctionCharacterConversionRate,0
+FunctionFullyConvertedOccurrences,0
+FunctionTotalOccurrences,0
+FunctionTotalParsingErrors,0
+FunctionTotalConversionErrors,0
+FunctionTotalWarnings,0
+FunctionTotalCharacters,0
+FunctionTotalLinesOfCode,0
+FunctionMultiStatementScalarCount,0
+FunctionMultiStatementTableValuedCount,0
+FunctionSimpleScalarCount,0
+FunctionTableValuedCount,0
+UdfCallsInDDLCount,0
+UdfCallsInDMLCount,0
+CloseSession,2022/05/31 20:10:13 +00:00
